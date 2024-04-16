@@ -1,0 +1,14 @@
+{
+  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+  "drives": [
+    {"name": "ECVE",
+     "search": true,
+      "searchable": true,
+      "server": "https://pan.ecve.cn"},
+
+    {"name": "星梦","server": "https://pan.bashroot.top"},
+   
+ {"name": "小雅","searchable": true,"server": "http://xiaoya.xlog.cc/","startPage": "/","showAll": true,"search": true,"headers": {"Authorization": ""}}
+
+   ]
+}
